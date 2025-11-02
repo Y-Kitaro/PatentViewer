@@ -67,7 +67,7 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>特許公報XMLビューワー</h1>
+        <h1>特許公報ビューアー</h1>
       </header>
       <main>
         <div className="upload-section">

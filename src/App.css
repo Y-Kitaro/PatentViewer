@@ -12,9 +12,9 @@ body {
 }
 
 header h1 {
-  color: #2c3e50;
+  color: #000000;
   text-align: center;
-  border-bottom: 2px solid #3498db;
+  border-bottom: 2px solid #000000;
   padding-bottom: 10px;
 }
 
@@ -35,7 +35,7 @@ header h1 {
 
 .upload-box h2 {
   margin-top: 0;
-  color: #3498db;
+  color: #000000;
 }
 
 input[type="file"] {
@@ -64,25 +64,25 @@ input[type="file"] {
 
 .viewer-container h1 {
   font-size: 1.8em;
-  color: #2c3e50;
+  color: #000000;
 }
 
 .viewer-container h2 {
   font-size: 1.5em;
-  color: #3498db;
+  color: #000000;
   border-bottom: 1px solid #eee;
   padding-bottom: 8px;
 }
 
 .viewer-container h3 {
   font-size: 1.2em;
-  color: #2980b9;
+  color: #000000;
   margin-top: 20px;
 }
 
 .viewer-container h4 {
   font-size: 1.1em;
-  color: #555;
+  color: #000000;
 }
 
 .claim {
@@ -99,19 +99,6 @@ input[type="file"] {
 
 .drawing {
   text-align: center;
-}
-
-.image-placeholder {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 200px;
-  background-color: #ecf0f1;
-  border: 2px dashed #bdc3c7;
-  color: #7f8c8d;
-  border-radius: 5px;
-  font-size: 0.9em;
-  padding: 10px;
 }
 
 p {
