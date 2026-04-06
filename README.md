@@ -2,7 +2,7 @@
 
 日本の特許公報（XML/TXT形式）をブラウザ上で読みやすく表示するためのビューアーアプリケーションです。
 
-![introduce.mp4](introduce.mp4)
+![introduce.mp4](https://github.com/user-attachments/assets/7dbe398f-3ae3-4526-948d-9d212a594574)
 
 [![Deploy to GitHub Pages](https://github.com/Y-Kitaro/PatentViewer/actions/workflows/deploy.yml/badge.svg)](https://github.com/Y-Kitaro/PatentViewer/actions/workflows/deploy.yml)
 
